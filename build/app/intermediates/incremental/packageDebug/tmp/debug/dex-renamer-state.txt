@@ -1,0 +1,4 @@
+#Fri Nov 24 23:21:32 IST 2023
+base.0=C\:\\Users\\johnny\\OneDrive\\Desktop\\movie_project\\task1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

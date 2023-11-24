@@ -107,7 +107,6 @@ class DetailScreen extends StatelessWidget {
               ),
             ),
             SizedBox(height: 20),
-            // Add more details or sections as needed
           ],
         ),
       ),

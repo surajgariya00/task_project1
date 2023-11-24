@@ -47,7 +47,7 @@ class _HomeScreenState extends State<HomeScreen> {
             ),
           ),
         ),
-        backgroundColor: Colors.black, // Set background color to black
+        backgroundColor: Colors.black,
         body: FutureBuilder<List<dynamic>>(
           future: _showList,
           builder: (context, snapshot) {

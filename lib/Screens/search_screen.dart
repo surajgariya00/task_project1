@@ -70,7 +70,7 @@ class _SearchScreenState extends State<SearchScreen> {
                   return Card(
                     elevation: 4,
                     margin: const EdgeInsets.symmetric(vertical: 8.0),
-                    color: Colors.grey[900], // Darker background for cards
+                    color: Colors.grey[900],
                     child: ListTile(
                       leading: show['image'] != null
                           ? CircleAvatar(

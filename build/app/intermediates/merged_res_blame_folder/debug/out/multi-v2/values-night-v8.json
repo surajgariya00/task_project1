@@ -4,7 +4,7 @@
             "outputFile": "com.example.task1.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\johnny\\OneDrive\\Desktop\\movie_project\\task1\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "E:\\task_project1\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
